@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>list types</title>
+</head>
+<body>
+<h5>Unordered lists</h5>
+<ul>
+  <li>abc</li>
+  <li>def</li>
+</ul>
+<ul type="square">
+   <li>ghi</li>
+   <li>rst</li>
+</ul>
+<h5>ordered lists</h5>
+<ol>
+ <li>ABC</li>
+ <li>DEF</li>
+</ol>
+<ol type="A" start="6">
+ <li>WER</li>
+ <li>PQR</li>
+</ol>
+<h5>Description lists</h5>
+<dl>
+ <dt>WP</dt>
+ <dd>Web programming</dd>
+</dl>
+</body>
+</html>
